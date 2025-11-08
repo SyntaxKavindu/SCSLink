@@ -8,18 +8,18 @@
 
 ## 📋 Table of Contents
 
-- [Overview](#overview)
-- [Features](#features)
-- [Inspiration & Credits](#inspiration--credits)
-- [Protocol Specification](#protocol-specification)
-- [Getting Started](#getting-started)
-- [Usage Examples](#usage-examples)
-- [Message Types](#message-types)
-- [API Reference](#api-reference)
-- [Building & Integration](#building--integration)
-- [Performance](#performance)
-- [Contributing](#contributing)
-- [License](#license)
+- [Overview](#-overview)
+- [Features](#-features)
+- [Inspiration & Credits](#-inspiration--credits)
+- [Protocol Specification](#-protocol-specification)
+- [Getting Started](#-getting-started)
+- [Usage Examples](#-usage-examples)
+- [Message Types](#-message-types)
+- [API Reference](#-api-reference)
+- [Building & Integration](#-building--integration)
+- [Performance](#-performance)
+- [Contributing](#-contributing)
+- [License](#-license)
 
 ---
 
